@@ -17,7 +17,7 @@ Optional arguments:
 
 ## Requires
 
-- [p-ranav/argparse: Argument Parser for Modern C++](https://github.com/p-ranav/argparse?tab=readme-ov-file#license)
+- [p-ranav/argparse: Argument Parser for Modern C++](https://github.com/p-ranav/argparse)
 
 ## License
 
