@@ -2,6 +2,8 @@
 
 📝 Zettelkasten utility
 
+## Usage
+
 ```
 Usage: zn [--help] [--version] title
 
@@ -12,3 +14,11 @@ Optional arguments:
   -h, --help     shows help message and exits
   -v, --version  prints version information and exits
 ```
+
+## Requires
+
+- [p-ranav/argparse: Argument Parser for Modern C++](https://github.com/p-ranav/argparse?tab=readme-ov-file#license)
+
+## License
+
+[MIT License](LICENSE)
