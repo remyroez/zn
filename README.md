@@ -1,0 +1,2 @@
+# zn
+📝 Zettelkasten utility
